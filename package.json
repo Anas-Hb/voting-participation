@@ -1,0 +1,23 @@
+{
+  "name": "voting-participation",
+  "version": "1.0.0",
+  "description": "piece of software that compiles voting participation from 1973 until the latest parliamentary elections.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Anas Hb",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "jquery": "^3.5.1",
+    "nodemon": "^2.0.6",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "12.16.3",
+    "npm": "6.14.4"
+  }
+}

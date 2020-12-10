@@ -1,0 +1,9 @@
+To try the project locally: 
+
+1 - open terminal inside the project folder and write " npm install "
+
+2 - same opened terminal write" nodemon app.js " if not work try " node app.js " 
+
+3 - open browser go to link :  http://localhost:3000/
+
+.........
